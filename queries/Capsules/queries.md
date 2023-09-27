@@ -1,4 +1,4 @@
-# Get all capsules
+# Get All capsules
 
 **Method** : `GET`
 
@@ -6,22 +6,15 @@
 
 **Auth required** : `False`
 
-**Modulo** : 
+**Modulo** : capsules
 
-**Version** : 
+**Version** : v4
 
-**Query** :
-****
-```json
-
-
-```
-****
+**Query** : `False`
 
 ## Success Responses
 
 **Code** : `200 OK`
-****
 ```json
 [
     {
@@ -39,4 +32,4 @@
     },
     ...
 ]
-```****
+```
