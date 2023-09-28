@@ -1,6 +1,6 @@
 # Campos Cores
 
-**URL**: `https://api.spacexdata.com/v4/cores`
+**URL**: `https://api.spacexdata.com/v4 /cores`
 
 | Campo         | Tipo   | Valores Permitidos                                 | Valor Predeterminado | Requerido |
 | ------------- | ------ | -------------------------------------------------- | -------------------- | --------- |

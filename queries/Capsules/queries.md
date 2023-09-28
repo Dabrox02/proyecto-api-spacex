@@ -1,5 +1,4 @@
 # Get All Capsules
-
 **Method** : `GET`  
 **URL** : `https://api.spacexdata.com/v4/capsules`  
 **Auth required** : `False`  
@@ -30,8 +29,7 @@
 ```
 
 # Get All Capsules with the Launches Patch
-
-**Method** : `GET`  
+**Method** : `POST`  
 **URL** : `https://api.spacexdata.com/v4/capsules`  
 **Auth required** : `False`  
 **Modulo** : capsules  
@@ -53,7 +51,6 @@
     }
 }
 ```
-
 
 ***
 ## Success Responses
@@ -99,8 +96,7 @@
 ```
 
 # Get All Capsules with a reuse greater than zero
-
-**Method** : `GET`  
+**Method** : `POST`  
 **URL** : `https://api.spacexdata.com/v4/capsules`  
 **Auth required** : `False`  
 **Modulo** : capsules  
@@ -116,7 +112,6 @@
     }
 }
 ```
-
 
 ***
 ## Success Responses
