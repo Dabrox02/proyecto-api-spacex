@@ -93,7 +93,7 @@
 ```
 
 ---
-# Get Route within other Route
+# Get All launches with Patches
 **Method** : `POST`  
 **URL** : `https://api.spacexdata.com/v4/launches`  
 **Auth required** : `False`  
@@ -143,9 +143,8 @@
 }
 ```
 
-
----
-# Get specifics fields
+***
+# Get Others
 **Method** : `POST`  
 **URL** : `https://api.spacexdata.com/v4/launches`  
 **Auth required** : `False`  

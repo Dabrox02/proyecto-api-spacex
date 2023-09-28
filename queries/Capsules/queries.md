@@ -2,7 +2,7 @@
 **Method** : `GET`  
 **URL** : `https://api.spacexdata.com/v4/capsules`  
 **Auth required** : `False`  
-**Modulo** : capsules  
+**Modulo** : Capsules
 **Version** : v4  
 **Query** : `False`
 
@@ -32,7 +32,7 @@
 **Method** : `POST`  
 **URL** : `https://api.spacexdata.com/v4/capsules`  
 **Auth required** : `False`  
-**Modulo** : capsules  
+**Modulo** : Capsules  
 **Version** : v4  
 **Query** : 
 ```json
@@ -99,7 +99,7 @@
 **Method** : `POST`  
 **URL** : `https://api.spacexdata.com/v4/capsules`  
 **Auth required** : `False`  
-**Modulo** : capsules  
+**Modulo** : Capsules  
 **Version** : v4  
 **Query** : 
 ```json

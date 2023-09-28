@@ -2,7 +2,7 @@
 **Method** : `GET`  
 **URL** : `https://api.spacexdata.com/v4/cores`  
 **Auth required** : `False`  
-**Modulo** : Launches  
+**Modulo** : Cores
 **Version** : v4  
 **Query** : `False`
 
@@ -36,7 +36,7 @@
 **Method** : `POST`  
 **URL** : `https://api.spacexdata.com/v4/cores`  
 **Auth required** : `False`  
-**Modulo** : Launches  
+**Modulo** : Cores
 **Version** : v4  
 **Query** : 
 ```json
