@@ -2,6 +2,9 @@
 
 Este repositorio contiene ejemplos de consultas a la API pública de SpaceX. La API de SpaceX proporciona acceso a datos relacionados con las misiones espaciales, cohetes, naves espaciales y otros aspectos del programa espacial de SpaceX.
 
+## Queries en PostMan
+[Invitacion Postman](https://app.getpostman.com/join-team?invite_code=e8f8cfc9b6153750f8392e7d02c2bfec&target_code=1111d77f520e779080d19518c4d8aa6b)
+
 ## Índice
 
 - [Proyecto API SpaceX](#proyecto-api-spacex)
